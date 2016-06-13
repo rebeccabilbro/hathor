@@ -1,5 +1,5 @@
 # hathor
-Data wrangling with Pandas
+Data wrangling with Excel vs. Pandas
 
 
 ![The Goddess Hathor](images/hathor.jpg)
